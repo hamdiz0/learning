@@ -513,3 +513,12 @@ AWS provides these services, enabling businesses to run applications without man
 
 <img src="img/aws67.png" style="width:100%">
 
+# [`EKS`]
+
+* Amazon Elastic Kubernetes Service (EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to install, operate, and maintain your own Kubernetes control plane
+
+* creating an eks IAM role :
+
+<img src="img/aws68.png" style="width:100%">
+
+...
